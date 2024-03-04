@@ -11,8 +11,7 @@ dns_app/
 │
 ├── AS/
 │   ├── app.py
-│   ├── Dockerfile
-│   └── requirements.txt (if necessary)
+│   └── Dockerfile
 │
 ├── FS/
 │   ├── app.py
